@@ -1,4 +1,4 @@
-export const nameBand = 'SAMUEL KING ';
+export const nameBand = 'SAMUEL KING';
 export const nameSongs = [
 	"KAI'S THEME", /*1*/
 	"GOJO SATORU HOLLOW PURPLE THEME", /*2*/
